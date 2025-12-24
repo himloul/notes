@@ -8,5 +8,6 @@
 - [ ] AWS ECS Fargate
 - [ ] AWS Lambda
 - [ ] Serverless
-- [ ] pytorch
-- [ ] spark
+- [ ] cpp
+- [ ] Spark
+- [ ] MLflow
